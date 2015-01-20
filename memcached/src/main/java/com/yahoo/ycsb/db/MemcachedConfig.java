@@ -1,4 +1,4 @@
-package com.yahoo.ycsb.memcached;
+package com.yahoo.ycsb.db;
 
 import com.yahoo.ycsb.config.PropertiesConfig;
 import net.spy.memcached.FailureMode;

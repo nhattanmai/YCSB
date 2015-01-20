@@ -1,4 +1,4 @@
-package com.yahoo.ycsb.memcached;
+package com.yahoo.ycsb.db;
 
 import net.spy.memcached.ConnectionFactoryBuilder;
 

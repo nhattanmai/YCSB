@@ -1,4 +1,4 @@
-package com.yahoo.ycsb.memcached;
+package com.yahoo.ycsb.db;
 
 import com.yahoo.ycsb.ByteIterator;
 import com.yahoo.ycsb.DB;

@@ -1,0 +1,2 @@
+memcached.hosts=localhost
+memcached.checkOperationStatus=true
